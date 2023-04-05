@@ -1,6 +1,6 @@
 {
   "name": "@chargetrip/express-cassandra",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "description": "Nest - modern, fast, powerful node.js web framework (@express-cassandra)",
   "author": {
     "name": "Fahim Rahman",
@@ -43,7 +43,7 @@
   "dependencies": {
     "@nestjs/common": "8.0.11",
     "@nestjs/core": "8.0.11",
-    "express-cassandra": "2.8.0",
+    "express-cassandra": "2.9.0",
     "merge-deep": "3.0.3",
     "reflect-metadata": "0.1.13",
     "rxjs": "7.3.0"
