@@ -229,6 +229,8 @@ export interface FindQueryStatic<T> {
   };
 
   $limit?: number;
+
+  $per_partition_limit?: number;
 }
 
 export interface FindSubQueryStatic {
